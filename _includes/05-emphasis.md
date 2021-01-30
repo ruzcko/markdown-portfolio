@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Hello World!
+
+Below is the *list* of my **technical skills**
+
+## Programming Languages
+- Python
+- Java
+- Kotlin
+
+## Collaborations
+- Intelligent Sytems Lab
+-Smart Farm
+
